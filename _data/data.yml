@@ -88,12 +88,12 @@ projects:
     intro: >
       TO BE CONTINUED
     assignments:
-      - title: Research Projects @GWU
+      - title: Projects @GWU
         link: "https://github.com/yuroc5390/ProtocolCustomization"
         tagline: "Cyber security projects sponsored by ONR, 2015 - 2019"
 
 #
-      - title: Intern Projects @Kryptowire
+      - title: Projects @Kryptowire
 #        link: "#"
         tagline: "An automated fuzzing framework designed to discover vulnerabilities in firmware of IoT devices and smartphone baseband processor"
 #
