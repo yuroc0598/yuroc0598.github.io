@@ -94,7 +94,7 @@ projects:
 
 #
       - title: Projects @Kryptowire
-#        link: "#"
+        link: "https://www.kryptowire.com/device-security/"
         tagline: "An automated fuzzing framework designed to discover vulnerabilities in firmware of IoT devices and smartphone baseband processor"
 #
 #      - title: Tempo
