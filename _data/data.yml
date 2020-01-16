@@ -7,56 +7,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yurong Chen
+    tagline: Incoming Research Scientist @Facebook
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: yuroc0598@gmail.com
+    phone: 202 826 8037
+#website: blog.webjeda.com #do not add http://
+    linkedin: yuroc
+    github: yuroc5390
+	facebook: yuroc9527
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+#      - idiom: French
+#        level: Professional
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Swimming
         link:
 
-      - item: Snowboarding
+      - item: Tennis
         link:
 
-      - item: Cooking
+      - item: Soccer
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Welcome! I'm a graduating PhD student at SEAS, GWU. My research focuses on reverse engineering, program/network security analysis and vulnerability detection. Currently I'm working on fuzzing and machine learning projects. I'll join Facebook as a research scientist in June, 2020.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Electrical and Computer Engineering
+      university: George Washington University
+      time: 2015 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +62,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Quit ME in Electrical Engineering
+      university: Xi'an Jiaotong University
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,10 +73,22 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BE in Electrical and Computer Engineering, Chien-Shiung Wu College
+      university: Southeast University
+      time: 2009 - 2013
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Engineer Intern
+      time: June 2019 - Oct. 2019
+      company: Kryptowire
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +101,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Visiting Research Assistant
+      time: June 2018 - Aug. 2018
+      company: University of California, Riverside
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,9 +112,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Graduate Research Assistant
+      time: 2015 - 2020
+      company: George Washington University
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -144,46 +153,91 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: "CustomPro: Network Protocol Customization through Cross-host Feature Analysis"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: SecureComm, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "CHOP: Bypassing Runtime Bounds Checking through Convex Hull Optimization"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Yurong Chen, Hongfa Xue, Tian Lan, Guru Venkataramani
+        conference: Computers and Security, Elsevier, 2019
 
-      - title: A syntax directed compiler for Algol 60
+
+      - title: "Exploring Effective Fuzzing Strategies to Analyze Communication Protocols"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: ACM FEAST, 2019
+
+      - title: "TOSS: Tailoring Online Server Systems through Binary Feature Customization"
+        link: "#"
+        authors: Yurong Chen, Shaowen Sun, Tian Lan, Guru Venkataramani
+        conference: ACM FEAST, 2018
+
+      - title: "DAMGate: Dynamic Adaptive Multi-feature Gating in Program Binaries"
+        link: "#"
+        authors: Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: ACM FEAST, 2019
+
+      - title: "Hecate: Automated Cuvstomization of Program and Communication Features to Reduce Attack Surfaces"
+        link: "#"
+        authors: Hongfa Xue, Yurong Chen, Guru Venkataramani, Tian Lan
+        conference: SecureComm, 2019
+
+
+      - title: "MORPH: Enhancing System Security through Interactive Customization of Application and Communication Protocol Feature"
+        link: "#"
+        authors: Hongfa Xue, Yurong Chen, Guru Venkataramani, Tian Lan, Guang Jin, Jason Li
+        conference: CCS Poster, 2018
+
+      - title: "MobiQoR: Pushing the Envelope of Mobile Edge Computing via Quality-of-Result Optimization"
+        link: "#"
+        authors: Yongbo Li, Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: ICDCS, 2017
+
+
+      - title: "SIMBER: Eliminating Redundant Memory Bound Checks via Statistical Inference"
+        link: "#"
+        authors: Hongfa Xue, Yurong Chen, Fan Yao, Yongbo Li, Tian Lan, Guru Venkataramani
+        conference: IFIP SEC, 2017
+
+
+      - title: "StatSym: Vulnerable Path Discovery through Statistics-guided Symbolic Execution"
+        link: "#"
+        authors: Fan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan, Guru Venkataramani
+        conference: DSN, 2017
+
+      - title: "AMASS: Automated Software Mass Customization via Feature Identification and Tailoring"
+        link: "#"
+        authors: Hongfa Xue, Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: Security and Safety, EAI, 2019
+
+
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C/C++
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: JAVA
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Binary Analysis
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Machine Learning
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photography
+        level: 80%
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+	YUROC
