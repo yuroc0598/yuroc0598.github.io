@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Yuroc!
-url: 'yuroc5390.github.io'
-baseurl: '/yuroc5390.github.io' #change it according to your repository name
+url: 'yuroc0598.github.io'
+baseurl: '/yuroc0598.github.io' #change it according to your repository name
 description: CV of Yurong Chen
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
