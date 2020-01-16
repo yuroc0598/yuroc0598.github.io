@@ -83,16 +83,14 @@ experiences:
       company: George Washington University
       details: |
    
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
+      TO BE CONTINUED
+    assignments:
+      - title: Cyber security projects sponsored by ONR
+        link: "https://github.com/yuroc5390/ProtocolCustomization"
+#        tagline: ""
 #
 #      - title: DevStudio
 #        link: "#"
