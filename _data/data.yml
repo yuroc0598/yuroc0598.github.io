@@ -84,20 +84,22 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 90%
+	- name: Python
 
-      - name: C/C++
-        level: 90%
-
-      - name: JAVA
-        level: 80%
-
-      - name: Binary Analysis
-        level: 90%
-
-      - name: Machine Learning
+#    toolset:
+#      - name: Python 
+#        level: 90%
+#
+#      - name: C/C++
+#        level: 90%
+#
+#      - name: JAVA
+#        level: 80%
+#
+#      - name: Binary Analysis
+#        level: 90%
+#
+#      - name: Machine Learning
 #        level: 80%
 
 
