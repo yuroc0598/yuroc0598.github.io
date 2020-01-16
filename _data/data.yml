@@ -83,13 +83,12 @@ experiences:
    
 skills:
     title: Skills &amp; Proficiency
-    name: Python, C/C++
 
-#    toolset:
-#      - name: Python 
+    toolset:
+      - name: Python 
 #        level: 90%
 #
-#      - name: C/C++
+      - name: C/C++
 #        level: 90%
 #
 #      - name: JAVA
