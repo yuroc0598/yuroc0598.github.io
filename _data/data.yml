@@ -129,26 +129,36 @@ publications:
         authors: Yurong Chen, Tian Lan, Guru Venkataramani
         conference: ACM FEAST, 2019
 
-      - title: "TOSS: Tailoring Online Server Systems through Binary Feature Customization"
-        link: "https://dl.acm.org/doi/10.1145/3273045.3273048"
-        authors: Yurong Chen, Shaowen Sun, Tian Lan, Guru Venkataramani
-        conference: ACM FEAST, 2018
-
-      - title: "DAMGate: Dynamic Adaptive Multi-feature Gating in Program Binaries"
-        link: "https://dl.acm.org/doi/10.1145/3141235.3141243"
-        authors: Yurong Chen, Tian Lan, Guru Venkataramani
-        conference: ACM FEAST, 2017
-
       - title: "Hecate: Automated Cuvstomization of Program and Communication Features to Reduce Attack Surfaces"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-37231-6_17"
         authors: Hongfa Xue, Yurong Chen, Guru Venkataramani, Tian Lan
         conference: SecureComm, 2019
 
 
+      - title: "AMASS: Automated Software Mass Customization via Feature Identification and Tailoring"
+        link: "https://www.researchgate.net/profile/Hongfa_Xue/publication/338042065_AMASS_Automated_Software_Mass_Customization_via_Feature_Identification_and_Tailoring/links/5dffed3ea6fdcc28373810dc/AMASS-Automated-Software-Mass-Customization-via-Feature-Identification-and-Tailoring.pdf"
+        authors: Hongfa Xue, Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: Security and Safety, EAI, 2019
+
+
+      - title: "TOSS: Tailoring Online Server Systems through Binary Feature Customization"
+        link: "https://dl.acm.org/doi/10.1145/3273045.3273048"
+        authors: Yurong Chen, Shaowen Sun, Tian Lan, Guru Venkataramani
+        conference: ACM FEAST, 2018
+
+
+
+
       - title: "MORPH: Enhancing System Security through Interactive Customization of Application and Communication Protocol Feature"
         link: "https://dl.acm.org/doi/10.1145/3243734.3278518"
         authors: Hongfa Xue, Yurong Chen, Guru Venkataramani, Tian Lan, Guang Jin, Jason Li
         conference: CCS Poster, 2018
+
+      - title: "DAMGate: Dynamic Adaptive Multi-feature Gating in Program Binaries"
+        link: "https://dl.acm.org/doi/10.1145/3141235.3141243"
+        authors: Yurong Chen, Tian Lan, Guru Venkataramani
+        conference: ACM FEAST, 2017
+
 
       - title: "MobiQoR: Pushing the Envelope of Mobile Edge Computing via Quality-of-Result Optimization"
         link: "https://ieeexplore.ieee.org/abstract/document/7980066"
@@ -167,10 +177,6 @@ publications:
         authors: Fan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan, Guru Venkataramani
         conference: DSN, 2017
 
-      - title: "AMASS: Automated Software Mass Customization via Feature Identification and Tailoring"
-        link: "https://www.researchgate.net/profile/Hongfa_Xue/publication/338042065_AMASS_Automated_Software_Mass_Customization_via_Feature_Identification_and_Tailoring/links/5dffed3ea6fdcc28373810dc/AMASS-Automated-Software-Mass-Customization-via-Feature-Identification-and-Tailoring.pdf"
-        authors: Hongfa Xue, Yurong Chen, Tian Lan, Guru Venkataramani
-        conference: Security and Safety, EAI, 2019
 
 
 
