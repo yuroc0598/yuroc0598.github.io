@@ -154,7 +154,7 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: "CustomPro: Network Protocol Customization through Cross-host Feature Analysis" **Best Paper Award**
+      - title: "CustomPro: Network Protocol Customization through Cross-host Feature Analysis (Best Paper Award)" 
         link: "https://link.springer.com/chapter/10.1007/978-3-030-37231-6_4"
         authors: Yurong Chen, Tian Lan, Guru Venkataramani
         conference: SecureComm, 2019
