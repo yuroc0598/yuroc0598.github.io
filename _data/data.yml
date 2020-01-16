@@ -86,16 +86,12 @@ skills:
 
     toolset:
       - name: Python, C/C++, JAVA
-	  
-	  - name: Binary Analysis
-      
-	  - name: Machine Learning
 #        level: 90%
 #
-#      - name: JAVA
+      - name: Binary Analysis
 #        level: 80%
 #
-#      - name: Binary Analysis
+      - name: Machine Learning
 #        level: 90%
 #
 #      - name: Machine Learning
