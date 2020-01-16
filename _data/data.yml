@@ -98,7 +98,7 @@ skills:
         level: 90%
 
       - name: Machine Learning
-        level: 80%
+#        level: 80%
 
 
 projects:
