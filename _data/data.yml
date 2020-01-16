@@ -88,13 +88,14 @@ projects:
     intro: >
       TO BE CONTINUED
     assignments:
-      - title: Cyber security projects sponsored by ONR
+      - title: Cyber security projects sponsored by ONR, 2015 - 2019
         link: "https://github.com/yuroc5390/ProtocolCustomization"
 #        tagline: ""
+
 #
-#      - title: DevStudio
+      - title: Intern Projects @Kryptowire
 #        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An automated fuzzing framework designed to discover vulnerabilities in IoT firmware and smartphone baseband"
 #
 #      - title: Tempo
 #        link: "#"
