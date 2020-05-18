@@ -38,7 +38,7 @@ sidebar:
 
     interests:
       - item: Triathlon, Tennis, Soccer
-      - item: Photography, Travelling
+#      - item: Photography, Travelling
 
 career-profile:
     title: About me
@@ -188,6 +188,12 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/8023115"
         authors: Fan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan, Guru Venkataramani
         conference: DSN, 2017
+        
+      - title: "Zero-Day Defense: Discovering and Removing Vulnerabilities throughProgram Customization and Fuzzing"
+        link: "https://search.proquest.com/openview/45e4d685dceeed07f13284b81c24313e/1?pq-origsite=gscholar&cbl=18750&diss=y"
+        authors: Yurong Chen
+        conference: PhD Dissertation, 2020
+        
 
 
 
