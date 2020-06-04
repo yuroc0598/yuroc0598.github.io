@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yurong Chen
-    tagline: Incoming Research Scientist @Facebook
+    tagline: Research Scientist @Facebook
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -88,7 +88,7 @@ skills:
       - name: Binary Analysis
 #        level: 80%
 #
-      - name: AI Security
+      - name: AI Infra & Security
 #        level: 90%
 #
       - name: Vulnerability Detection
