@@ -62,6 +62,11 @@ education:
       details: |
    
 experiences:
+    - role: Research Scientist
+      time: June 2020 - Present
+      company: Facebook
+      details: AI Infra
+
     - role: Research Engineer Intern
       time: June 2019 - Oct. 2019
       company: Kryptowire
